@@ -30,6 +30,12 @@ While I was designing the rest of the screens, I kept in mind to keep the overal
 
 View the impression test [here.](https://drive.google.com/file/d/1kSNs6GzS37rvJVx_VE3qPw9ipFsWQ6sF/view?usp=sharing)
 
+##### What went well
+The user enjoyed the illustration on the homescreen of the staircase and pathways. They also liked seeing the progress bar as they were making their profile because it lets them know how far into the process they are currently at. Additionally, the user enjoyed the overall color scheme.
+
+##### What could have been better
+During this impression test, the user noted a few things that I will definitely consider when I am revising my screen designs. I told them it was a website meant for the computer, and they questioned the font sizes for being a bit too big than standard font sizes on a computer screen. However, the font size is more ideal more mobile users. Another thing that the user questioned was the part in the process where the user had to upload a photo of themselves. On that screen, I added a vertical scrolling component that allows the users to see the "Photo Rules", or what types of photos are appropriate and not appropriate on the website. The user suggested listing the photo rules on the side, or perhaps making a button that navigates the user to a separate page with the photo rules.
+
 ## Accessibility Check
 
 Below is a graphic indicating the accessibility check for the various color schemes I have on the interface designs:
